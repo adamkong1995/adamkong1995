@@ -20,7 +20,7 @@ independently deployed applications (Next.js, Nuxt, React) without shared
 cookies or runtime.  
 _Auth0, OIDC, Vercel, microfrontend architecture_
 
-**Typed API SDK Factory**
+**Typed API SDK Factory**  
 A reference pipeline for generating typed API clients from schema definitions,
 including OpenAPI generation, SDK codegen, and automated publishing.  
 _Zod, OpenAPI, hey-api, GitHub Actions_
